@@ -22,7 +22,7 @@ also not included in this repo are the opencv files 'haarcascade_frontalface_alt
 * * *
 ### results as they stand:
 
-portrait_0 outputs:
+portrait_0 outputs:    
 ![mean1](/images/mean1.jpg) ![mean4](/images/mean4.jpg) ![mean6](/images/mean6.jpg) ![mean8](/images/mean8.jpg)    
 
 Although some of the outputs for 'portrait_0' were quite nice(above), this project is still a work in progress.  The current methods used for training the graph are not flexible enough to allow for successful inference from live captured faces.
